@@ -23,13 +23,13 @@ var createUl = function(){
 
 var createLi1 = function(name){
   var li1 = document.createElement("li");
-  li1.textContent = name;
+  li1.textContent = "Name: " + name;
   return li1;
 }
 
 var createli2 = function(food){
   var li2 = document.createElement("li");
-  li2.textContent = food;
+  li2.textContent = "Food: "+ food;
   return li2;
 }
 
