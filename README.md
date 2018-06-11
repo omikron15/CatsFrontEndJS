@@ -1,4 +1,4 @@
-# CODECATZ Homework
+# CODECATZ Lab
 
 Use the provided start point and complete the following tasks:
 
